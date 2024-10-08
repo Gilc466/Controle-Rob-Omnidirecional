@@ -1,5 +1,5 @@
 # Controle de Robô Omnidirecional com Três Rodas
-![Captura de tela 2024-06-04 012640](https://github.com/user-attachments/assets/3e201dbe-251e-4e5b-8929-169c78631477)
+![robocoppelia](https://github.com/user-attachments/assets/546f4a8f-7bef-4eb7-96cc-a3917f5342b2)
 
 Este repositório contém o código para o controle cinemático de um robô omnidirecional de três rodas. O projeto foi desenvolvido como parte do meu Trabalho de Conclusão de Curso (TCC), focando na simulação em tempo real e controle do robô no CoppeliaSim, utilizando um controlador PID para o acompanhamento de trajetória.
 
